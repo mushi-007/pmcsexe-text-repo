@@ -8,33 +8,21 @@
       },
       {
          "author": "Amir Eshaq",
-         "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
+         "url": "https://cdn.rawgit.com/mushi-007/pmcsexe-text-repo/95ea2197/progress-tracking.jpg",
          "name": "GM HPIP",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
+         "thumbnail": "https://cdn.rawgit.com/mushi-007/pmcsexe-text-repo/95ea2197/progress-tracking.jpg"
       },
       {
          "author": "Dan Martin",
-         "url": "https://github.com/afollestad/polar_json/raw/master/flamingos.jpg",
+         "url": "https://cdn.rawgit.com/mushi-007/pmcsexe-text-repo/95ea2197/qr-scanner.jpg",
          "name":" QR SCANNER",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
+         "thumbnail": "https://cdn.rawgit.com/mushi-007/pmcsexe-text-repo/95ea2197/qr-scanner.jpg"
       },
       {
          "author": "Abdurrahman Gori",
-         "url": "https://github.com/afollestad/polar_json/raw/master/forest_one.png",
+         "url": "https://cdn.rawgit.com/mushi-007/pmcsexe-text-repo/95ea2197/feeds.jpg",
          "name": "STATUS FEEDS",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/forest_one_thumb.jpg"
-      },
-      {
-         "author": "Joseph K",
-         "url": "https://github.com/afollestad/polar_json/raw/master/tree_farm.jpg",
-         "name": "Tree Farm",
-         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/tree_farm_thumb.jpg"
-      },
-      {
-         "author":"MD Imran",
-         "url":"https://github.com/afollestad/polar_json/raw/master/tree_tops.jpg",
-         "name":"Tree Tops",
-         "thumbnail":"https://github.com/afollestad/polar_json/raw/master/tree_tops_thumb.jpg"
+         "thumbnail": "https://cdn.rawgit.com/mushi-007/pmcsexe-text-repo/95ea2197/feeds.jpg"
       }
    ]
 }
