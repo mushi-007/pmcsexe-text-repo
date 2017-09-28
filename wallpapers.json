@@ -1,0 +1,40 @@
+{
+   "wallpapers": [
+      {
+         "author": "Musheer Khan",
+         "url": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch.jpg",
+         "name": "My Dashboard",
+         "thumbnail": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch_thumb.jpg"
+      },
+      {
+         "author": "Amir Eshaq",
+         "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
+         "name": "GM HPIP",
+         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
+      },
+      {
+         "author": "Dan Martin",
+         "url": "https://github.com/afollestad/polar_json/raw/master/flamingos.jpg",
+         "name":" QR SCANNER",
+         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
+      },
+      {
+         "author": "Abdurrahman Gori",
+         "url": "https://github.com/afollestad/polar_json/raw/master/forest_one.png",
+         "name": "STATUS FEEDS",
+         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/forest_one_thumb.jpg"
+      },
+      {
+         "author": "Joseph K",
+         "url": "https://github.com/afollestad/polar_json/raw/master/tree_farm.jpg",
+         "name": "Tree Farm",
+         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/tree_farm_thumb.jpg"
+      },
+      {
+         "author":"MD Imran",
+         "url":"https://github.com/afollestad/polar_json/raw/master/tree_tops.jpg",
+         "name":"Tree Tops",
+         "thumbnail":"https://github.com/afollestad/polar_json/raw/master/tree_tops_thumb.jpg"
+      }
+   ]
+}
