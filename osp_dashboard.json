@@ -4,35 +4,35 @@
     "Total_Status":[ {
       "Scope": {
         "Total": "18863",
-        "%_on_Scope": "0",
-        "%_on_Previus": "0"
+        "on_Scope": "0",
+        "on_Previus": "0"
       },
       "Design": {
         "Total": "17551",
-        "%_on_Scope": "94%",
-        "%_on_Previus": "0"
+        "on_Scope": "94%",
+        "on_Previus": "0"
       },
       "Permit": {
         "Total": "16753",
-        "%_on_Scope": "89%",
-        "%_on_Previus": "0"
+        "on_Scope": "89%",
+        "on_Previus": "0"
       }
     }],
     "KA_Status":[ {
       "Scope": {
         "Total": "18863",
-        "%_on_Scope": "0",
-        "%_on_Previus": "0"
+        "on_Scope": "0",
+        "on_Previus": "0"
       },
       "Design": {
         "Total": "17551",
-        "%_on_Scope": "94%",
-        "%_on_Previus": "0"
+        "on_Scope": "94%",
+        "on_Previus": "0"
       },
       "Permit": {
         "Total": "16753",
-        "%_on_Scope": "89%",
-        "%_on_Previus": "0"
+        "on_Scope": "89%",
+        "on_Previus": "0"
       }
     }]
   }
