@@ -3,7 +3,7 @@
       {
          "author": "Musheer Khan",
          "url": "https://raw.githubusercontent.com/mushi-007/pmcsexe-text-repo/3bd66848/angular-reactive-chart-hero.jpg",
-         "name": "My Dashboard",
+         "name": "OSP Dashboard",
          "thumbnail": "https://raw.githubusercontent.com/mushi-007/pmcsexe-text-repo/3bd66848/angular-reactive-chart-hero.jpg"
       },
       {
@@ -15,13 +15,13 @@
       {
          "author": "Dan Martin",
          "url": "https://cdn.rawgit.com/mushi-007/pmcsexe-text-repo/95ea2197/qr-scanner.jpg",
-         "name":" QR SCANNER",
+         "name":"PMCS Dashboard",
          "thumbnail": "https://cdn.rawgit.com/mushi-007/pmcsexe-text-repo/95ea2197/qr-scanner.jpg"
       },
       {
          "author": "Abdurrahman Gori",
          "url": "https://cdn.rawgit.com/mushi-007/pmcsexe-text-repo/bc9e7beb/feeds.jpg",
-         "name": "STATUS FEEDS",
+         "name": "NBB Dashboard",
          "thumbnail": "https://cdn.rawgit.com/mushi-007/pmcsexe-text-repo/bc9e7beb/feeds.jpg"
       }
    ]
